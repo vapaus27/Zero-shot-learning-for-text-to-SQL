@@ -14,7 +14,7 @@ Then, execute the following command for training MC-SQL.
 
 ## T5
 ### Prepare Data
-Download [pre-trained model] (https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased.tar.gz) unzip and put them under t5-demo/.
+Download [pre-trained model](https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased.tar.gz) unzip and put them under t5-demo/.
 ### Running Code
 1. Training
 `cd /t5-demo`  
